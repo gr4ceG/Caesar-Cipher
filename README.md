@@ -6,4 +6,6 @@ Ceaser Cipher takes in a message from input and provides options to perform thre
 2. Decodes the message with a provided shift interval. 
 3. Decodes the message with Brute Force: displays all (26) possible messages and selects the most probable message based on an analysis of word semblance to real english words. 
 
-## Setup 
+## Setup and Instructions 
+
+Go to releases and download the latest `jar` file. Then, run with console by using the following command `java -jar CoffeeKlatch_Guo.jar`.

@@ -8,4 +8,4 @@ Ceaser Cipher takes in a message from input and provides options to perform thre
 
 ## Setup and Instructions 
 
-Go to releases and download the latest `jar` file. Then, run with console by using the following command `java -jar CoffeeKlatch_Guo.jar`.
+Go to releases and download the latest `jar` file. Then, run with console by using the following command `java -jar CaeserCipher.jar`.
